@@ -1,8 +1,8 @@
 #main_header {
     background-image: url(../images/banner.jpg);
     color: #FFFFFF;
-    padding: 10em 1em;
-    position: relative;
+/*     padding: 10em 1em;
+    position: relative; */
     text-align: center;
 }
 
